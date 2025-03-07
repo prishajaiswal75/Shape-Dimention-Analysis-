@@ -1,3 +1,6 @@
+//Name:Prisha Jaiswal
+//Prn: 23070126095
+//Batch AIML B1
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
